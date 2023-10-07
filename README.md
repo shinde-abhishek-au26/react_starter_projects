@@ -1,2 +1,2 @@
 # react_starter_projects
-React Starter Projects
+Starter Projects built using React.js !
